@@ -18,7 +18,7 @@
 
 
     "GITHUB_AUTH_TOKEN": {
-      "description": "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.",
+      "description": ".",
       "required": true
     }   
 },
